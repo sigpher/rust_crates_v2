@@ -1,2 +1,2 @@
 [workspace]
-members = ["json","rand"]
+members = ["json","rand","error_handling"]
